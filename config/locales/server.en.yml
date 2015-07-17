@@ -1,0 +1,13 @@
+en:
+  site_settings:
+    revive_adserver_host: 'Revive Adserver Hostname'
+    revive_show_topiclist_top: 'Show ads on top of the topic list'
+    revive_topiclist_top_zone_id: 'Zone ID for top of the topic list (728x90)'
+    revive_topiclist_top_mobile_zone_id: 'Mobile zone ID for top of the topic list (320x50)'
+    revive_show_topic_top: 'Show ads on top of the topic'
+    revive_topic_top_zone_id: 'Zone ID for top of the topic (728x90)'
+    revive_topic_top_mobile_zone_id: 'Mobile zone ID for top of the topic (320x50)'
+    revive_show_topic_bottom: 'Show ads on bottom of the topic'
+    revive_topic_bottom_zone_id: 'Zone ID for bottom of the topic (728x90)'
+    revive_topic_bottom_mobile_zone_id: 'Mobile zone ID for bottom of the topic (320x50)'
+    revive_through_trust_level: 'Show ads to users through trust level (0 = to not logged in users only ... 4 = to all users)'

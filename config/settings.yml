@@ -1,0 +1,36 @@
+revive_plugin:
+  revive_adserver_host:
+    client: true
+    default: ''
+  revive_show_topiclist_top:
+    client: true
+    default: false
+  revive_topiclist_top_zone_id:
+    client: true
+    default: ''
+  revive_topiclist_top_mobile_zone_id:
+    client: true
+    default: ''
+  revive_show_topic_top:
+    client: true
+    default: false
+  revive_topic_top_zone_id:
+    client: true
+    default: ''
+  revive_topic_top_mobile_zone_id:
+    client: true
+    default: ''
+  revive_show_topic_bottom:
+    client: true
+    default: false
+  revive_topic_bottom_zone_id:
+    client: true
+    default: ''
+  revive_topic_bottom_mobile_zone_id:
+    client: true
+    default: ''
+  revive_through_trust_level:
+    client: true
+    default: 2
+    enum: 'TrustLevelSetting'
+
