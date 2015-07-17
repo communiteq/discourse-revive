@@ -1,4 +1,4 @@
-# discourse-adsense
+# discourse-revive
 
 Revive Adserver plugin for Discourse forum
 
