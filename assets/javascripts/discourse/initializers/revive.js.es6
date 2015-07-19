@@ -12,7 +12,13 @@ export default {
       if (Discourse.SiteSettings['revive_show_' + position]) {
 
         var zoneid = Discourse.SiteSettings['revive_'+ slotid + '_zone_id'];
+        if (isNaN(parseFloat(zoneid)) || !isFinite(zoneid)) {
+            return "";
+        }
         var revivehost = Discourse.SiteSettings['revive_adserver_host'];
+        if (revivehost == "") {
+            return "";
+        }
         var rnd = Math.floor((Math.random() * 100000) + 1);
         var cl = 'revive';
         if (position != slotid) { // mobile
