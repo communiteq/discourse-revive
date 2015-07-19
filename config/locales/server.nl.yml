@@ -1,0 +1,13 @@
+en:
+  site_settings:
+    revive_adserver_host: 'Revive Adserver Hostname'
+    revive_show_topiclist_top: 'Toon advertenties bovenaan topiclijst'
+    revive_topiclist_top_zone_id: 'Zone ID voor bovenaan topiclijst (728x90)'
+    revive_topiclist_top_mobile_zone_id: 'Mobiele zone ID voor bovenaan topiclijst (320x50)'
+    revive_show_topic_top: 'Toon advertenties bovenaan topic'
+    revive_topic_top_zone_id: 'Zone ID for bovenaan topic (728x90)'
+    revive_topic_top_mobile_zone_id: 'Mobiele zone ID voor bovenaan topic (320x50)'
+    revive_show_topic_bottom: 'Toon advertenties onderaan topic'
+    revive_topic_bottom_zone_id: 'Zone ID for onderaan topic (728x90)'
+    revive_topic_bottom_mobile_zone_id: 'Mobiele zone ID voor onderaan topic (320x50)'
+    revive_through_trust_level: 'Toon advertenties voor gebruikers t/m trust level (0 = niet ingelogd... 4 = alle gebruikers)'
