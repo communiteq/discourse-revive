@@ -9,7 +9,10 @@ register_css <<CSS
 
 .revive {
   text-align: center;
-  padding: 3px;
+}
+
+.revive iframe {
+  margin: 3px;
   margin-bottom: 10px;
 }
 
