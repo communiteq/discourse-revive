@@ -1,11 +1,10 @@
 export default Ember.Component.extend({
   visible: true,
   slot: null,
-state: 1,
 
   init() {
     this._super();
-this.set('state', 2);
+
     const { siteSettings } = this;
     const slot = this.get('slot').trim();
     const position = slot.replace('_mobile', '');
