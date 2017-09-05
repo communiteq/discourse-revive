@@ -1,9 +1,9 @@
 # name: Discourse Revive
 # about: Use Revive Adserver with Discourse
-# version: 1.3.0
+# version: 1.8.0
 # author: DiscourseHosting.com
 # url: https://www.github.com/discoursehosting/discourse-revive
-# Supported Discourse version: v1.3
+# Supported Discourse version: v1.8 and up
 
 register_css <<CSS
 
